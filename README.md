@@ -1,5 +1,5 @@
-# An Analysis on Piano Production
-### Data Analytics Project on the Piano Market in Germany
+# Pianos in the Digital Age
+### An Analysis on Piano Production in Germany
 
 ## Key Question:
 - How has the digital keyboard and international trade affected the piano manufacturing industry in Germany?
